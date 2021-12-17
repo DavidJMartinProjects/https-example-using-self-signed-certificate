@@ -53,7 +53,6 @@
 					</layers>
 				</configuration>
 			</plugin>
-
 			<plugin>
 				<groupId>io.fabric8</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
@@ -86,7 +85,6 @@
 					</execution>
 				</executions>
 			</plugin>
-
 		</plugins>
 	</build>
 
