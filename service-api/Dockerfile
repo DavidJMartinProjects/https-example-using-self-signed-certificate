@@ -1,5 +1,4 @@
 # Multi-Layered Dockerfile
-
 FROM openjdk:8-jre-slim AS builder
 WORKDIR application
 ARG JAR_FILE=target/*.jar
