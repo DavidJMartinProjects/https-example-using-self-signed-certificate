@@ -10,6 +10,9 @@ Create a DockerFile and K8 namespace/deployment/service files
 Install an Nginx Ingress to the cluster
 
 ## Step 4.
+
+NB: append line '127.0.0.1 my-example.com' to windows hosts file (C:\Windows\System32\drivers\etc)
+
 Generate key and certificate using openssL
  - (use ubuntu if using Windows OS)
 
